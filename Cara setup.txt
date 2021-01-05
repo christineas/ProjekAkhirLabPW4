@@ -1,0 +1,7 @@
+Sebelumnya, extract ke folder htdocs
+1. Buka XAMPP, jalankan Apache
+2. Jalankan Apache Jena Fuseki
+3. Create dataset tes_tubes di localhost:3030 (Jena Fuseki)
+4. Upload info_film.ttl dan bioskop.rdf ke dataset
+5. Buka http://localhost/TUBES/infilm/index.php
+Website siap digunakan :)
